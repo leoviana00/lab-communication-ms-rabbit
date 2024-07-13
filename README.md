@@ -1,0 +1,1 @@
+# lab-communication-ms-rabbit
