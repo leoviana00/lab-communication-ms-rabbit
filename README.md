@@ -72,3 +72,16 @@
 ## 👣 Roadmap
 
 ## 📄 Referências
+
+- [API Rest](https://restfulapi.net/)
+- [Microsserviços com Springboot](https://spring.io/blog/2015/07/14/microservices-with-spring)
+- [Microsevices](https://spring.io/microservices)
+- [Compreendendo a Comunicação Síncrona e Assíncrona entre Microsserviços](https://medium.com/@vitormoschetta/compreendendo-a-comunica%C3%A7%C3%A3o-s%C3%ADncrona-e-ass%C3%ADncrona-em-desenvolvimento-de-software-809d1f635d1b)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable)
+- [RabbitMQ](https://www.rabbitmq.com/docs)
+- [Docker](https://docs.docker.com/guides/)
+- [Docker Compose](https://docs.docker.com/compose/compose-application-model/)
+- [Mongo docker](https://hub.docker.com/_/mongo)
+- [PostgreSQL docker](https://hub.docker.com/_/postgres)
+- [Rabbit docker](https://hub.docker.com/_/rabbitmq)
+- [NodeJS](https://nodejs.org/docs/latest/api/)
