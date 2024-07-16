@@ -76,6 +76,7 @@
 - [API Rest](https://restfulapi.net/)
 - [Microsserviços com Springboot](https://spring.io/blog/2015/07/14/microservices-with-spring)
 - [Microsevices](https://spring.io/microservices)
+- [Maven Plugin](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-running-your-application.html)
 - [Compreendendo a Comunicação Síncrona e Assíncrona entre Microsserviços](https://medium.com/@vitormoschetta/compreendendo-a-comunica%C3%A7%C3%A3o-s%C3%ADncrona-e-ass%C3%ADncrona-em-desenvolvimento-de-software-809d1f635d1b)
 - [Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable)
 - [RabbitMQ](https://www.rabbitmq.com/docs)
